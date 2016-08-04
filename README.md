@@ -4,4 +4,4 @@
 
 
 
-Company logo.
+quickcoding.io.
