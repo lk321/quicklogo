@@ -1,0 +1,2 @@
+# quicklogo
+Company logo.
